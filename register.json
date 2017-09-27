@@ -1,0 +1,68 @@
+    [
+        {
+            "name": {
+                "first": "Ola",
+                "last": "Persson"
+            },
+            "lgh": {
+                "nummer": 1,
+                "yta": 43.1,
+                "avgift": 3270
+            }
+        },
+        {
+            "name": {
+                "first": "Wayne",
+                "last": "McCleary"
+            },
+            "lgh": {
+                "nummer": 2,
+                "yta": 47.6,
+                "avgift": 3530
+            }
+        },
+        {
+            "name": {
+                "first": "Riina",
+                "last": "Keskitalo"
+            },
+            "lgh": {
+                "nummer": 3,
+                "yta": 43.1,
+                "avgift": 3270
+            }
+        },
+        {
+            "name": {
+                "first": "Hamad",
+                "last": "Olofsson"
+            },
+            "lgh": {
+                "nummer": 4,
+                "yta": 32.9,
+                "avgift": 2650
+            }
+        },
+        {
+            "name": {
+                "first": "Sten",
+                "last": "Holm"
+            },
+            "lgh": {
+                "nummer": 5,
+                "yta": 43.6,
+                "avgift": 3343
+            }
+        },
+        {
+            "name": {
+                "first": "Lafayette",
+                "last": "de Sousa"
+            },
+            "lgh": {
+                "nummer": 6,
+                "yta": 45.9,
+                "avgift": 3418
+            }
+        }
+    ]
